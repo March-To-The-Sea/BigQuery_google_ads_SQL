@@ -1,0 +1,1 @@
+# BigQuery_google_ads_SQL
